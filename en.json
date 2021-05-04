@@ -1,0 +1,131 @@
+{
+    "ekle": "Add",
+    "sayfa": "Page",
+    "renk:": "Color Theme:",
+    "ayetler": "Verses",
+    "okumaya-devam-et": "Continue to Read",
+    "kaydet": "Save",
+    "duzenle": "Edit",
+    "geri": "Back",
+    "paylas": "Share",
+    "tamam": "Ok",
+    "iptal": "Cancel",
+
+    "kuran": "Quran",
+    "meal": "Translation",
+
+    "mekke": "Mekka",
+    "medine": "Medina",
+
+    "sayfa-ayari": "Page Settings",
+    "yazi-boyutu": "Font Size",
+
+    "sayfaya-git": "Go to Page",
+    "ayete-git": "Go to Verse",
+
+    "sure": "Surah",
+    "suresi": "Surah",
+    "ayet": "Verse",
+    "cuz": "Juz",
+
+    "sesli-arama": "Voice Search",
+    "sonuc-bulunamadi": "No results.",
+    "sesli-arama-aciklama": "Read Quran at least 7 seconds or several Verses to get better results.",
+    "sonuclar": "Results",
+    "sonuclar-bulunamadi": "No results...",
+
+    "hatim": "Hateems",
+    "hatimler": "Hateems",
+    "hatim-ekle": "New Hateem",
+    "hatim-duzenle": "Edit Hateem",
+    "hatim-ismi:": "Name of Hateem:",
+    "hatim-sayfa:": "Last Read Page:",
+    "hatime-basla": "Start Hateem",
+    "hatim-turu:": "Hateem Type:",
+    "hatimin-yok": "You have no hateems. Add some.",
+
+    "cuzler": "Juzs",
+    "online-cuz": "Online Juzs",
+    "online-cuz-yok": "You have no Online Juzs. You can joining your loved ones'es online hateems.",
+    "ilk-10-sayfa": "First 10 Page",
+    "son-10-sayfa": "Last 10 Page",
+    "hatime-git": "Hateem's Page",
+    "cuzu-bitir": "Complete Juz",
+
+    "online-hatimler": "Online Hateems",
+    "online-hatim": "Online Hateems",
+    "online-hatim-ekle": "Start Online Hateem",
+    "online-hatim-yok" : "You have no Online Hateems. Start one and share with your loved ones.",
+    "hatim-aciklama": "Hateem Details:",
+    "hatim-bitim-tarihi": "End Date",
+    "lutfen-tarih-secin": "Please pick a date.",
+    "tarih-sec": "Pick Date",
+    "hatimi-olustur": "Start Hateem",
+    "bos-cuz": "Available Juzs",
+    "yarim-cuz": "Half Taken Juzs",
+    "alinmis-cuz": "Taken Juzs",
+    "yarim-cuz-al": "Take an half juz (10 page)",
+    "cuzleri-al": "Take Juzs",
+
+    "profil": "Profile",
+    "okunan": "Read",
+    "hatimlerim": "My Hateems",
+    "alinan-cuz": "Juzs Taken",
+    
+    "ayarlar": "Settings",
+    "tema-ayar": "Theme",
+    "tema-ayar-2": "Theme and color palette settings",
+    "meal-ayar": "Translation",
+    "meal-ayar-2": "Translation language settings",
+    "dil-ayar": "Language",
+    "dil-ayar-2": "Language settings",
+    "hesap-ayar": "Account",
+    "hesap-ayar-2": "User Account Settings",
+    "hakkinda-ayar": "About",
+    "hakkinda-ayar-2": "About and Contact",
+    "hakkinda-yazi": "Iqra application is a Quran application developed only for the consent of Allah. The translations in the application have been taken from tanzil.net. You can contact us below for your questions and suggestions.",
+
+    "tema:": "Theme:",
+    "gunduz": "Day",
+    "gece": "Night",
+
+    "cikis": "Logout",
+    "cikis-yap-aciklama": "Are you sure you want to logout?",
+
+    "hatim-ismi-hata": "Hateem name must at least 1 character.",
+    "hatim-sayfa-hata": "Page must be between 1 and 604",
+    "hatim-aciklama-hata": "Hateem details must be at least 1 character.",
+
+    "tarih-sec-hata": "Please select a date.",
+
+    "giris": "Login",
+    "email:": "Email:",
+    "sifre:": "Password:",
+    "giris-yap": "Login",
+    "sifremi-unuttum": "Forgot Password?",
+
+    "email-ile": "Use Email to:",
+    "kayit-ol": "Register",
+    "veya": "OR",
+    "google-ile-giris-yap": "Sign in with Google",
+    "facebook-ile-giris-yap": "Sign in with Facebook",
+    "apple-ile-giris-yap": "Sign in with Apple",
+    "misafir-girisi-yap": "Guest Login",
+    
+    "isim:" : "İsim:",
+
+    "meal-sec": "Select Your Translation",
+    "meal-secme-uyari": "Please note that; translations depends on translator, please select translator you know and trust.",
+
+    "devam": "Continue",
+    "ilk-yukleme": "Loading please wait...",
+
+    "secde-baslik": "Sajda Tilawat",
+    "secde-aciklama": "There are 14 Sajdah Tilawat in The Quran which are indicated by the word ‘As Sajdah’ shown in the margin and also on the specific verse.\nWhen one recites or hears any of these verses, it is necessary (wajib) to perform sajdah tilawat. One should try to perform the sajdah as soon as possible. In the case that one forgot, it would remain necessary (wajib) to perform it.\nThe procedure of Sajidah Tilawat is in the state of Wudhu stand up and say: ‘Allahu Akbar’ without raising the hands; then go straight down into Sajdah; read ‘Subhaana Rabbiyal A’ala‘ three times; arise out of Sajdah and ‘whilst standing up say; ‘Allahu Akbar’. There is no Tasleem (Salaam) after standing up. Although it is better to begin and end this Sajdah from a standing position, it is also correct to commence and terminate it from the Jalsa (sitting) position.\nSajdatut Tilawat is prohibited whilst the sun is rising, precisely at noon, and from the time the color of the sun changes before sunset until the sun has fully set.",
+
+    "ucuncu-taraf-kutuphaneleri": "Third Party Libraries",
+    "email-gonder": "Mail",
+
+    "ucuncu-taraf-kutuphaneleri-yazi": "We use Tanzil.net's translations in the app. \n We use Al Quran Cloud's voices."
+
+}
